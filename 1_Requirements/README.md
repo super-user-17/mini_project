@@ -37,3 +37,4 @@ The setup is very easy to use with user friendly interface and alerts, instructi
 
 ## Defining the system
 
+![block diagram](https://user-images.githubusercontent.com/39994054/120267746-37c47d00-c2c2-11eb-9b3b-3d5340ae1989.JPG)
