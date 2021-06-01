@@ -38,3 +38,8 @@ The setup is very easy to use with user friendly interface and alerts, instructi
 ## Defining the system
 
 ![block diagram](https://user-images.githubusercontent.com/39994054/120267746-37c47d00-c2c2-11eb-9b3b-3d5340ae1989.JPG)
+
+## SWOT analysis
+
+![swot analysis](https://user-images.githubusercontent.com/39994054/120269252-131dd480-c2c5-11eb-92e0-a544d2186e45.JPG)
+
