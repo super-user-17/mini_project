@@ -1,5 +1,17 @@
 # Requirements
 
+## High Level Requirement
+1. Sanitizer should be dispensed automatically upon entry
+2. Body temperature should be monitored automatically
+3. Alerts should be given to user in case of anomaly
+
+## Low Level Requirements
+1. Mimimal delay should be there between consecutive entries
+2. Proper calibration of all the sensors
+3. IoT alerts to report the anomalies to authorities
+4. Webcam interface to capture the image
+5. Restriction on number of entries
+
 ## Hardware Requirements
 1. Arduino Uno
 2. Bolt IoT module
